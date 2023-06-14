@@ -6,3 +6,7 @@ My database allowed multiple users to upload their recordings, further users cou
 Other features include pause recording and cut recording functionality. Built a clear understanding of app development and database implementation
 
 The src file contains all files including the mp3 music files. But outside this, I have placed my code files in the regular folder as seen, theses are also duplicated in the src.
+
+This is how the GUI looks:
+
+![piano snip](https://github.com/RohanMankame/Piano_Virtual_Application-JAVA/assets/65721380/be3e0a49-2bb4-4180-9f27-eaadf473806b)
